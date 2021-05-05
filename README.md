@@ -11,4 +11,6 @@ synthetic instances for imbalanced MLDs, is proposed. An extensive review on how
 context has been tackled in the past is provided, along with a thorough experimental study aimed
 to verify the benefits of the proposed algorithm.
 
+![text](https://github.com/ruchi-9/MLSMOTE/blob/master/Algorithm.jpg)
+
 Paper Link: https://doi.org/10.1016/j.knosys.2015.07.019
